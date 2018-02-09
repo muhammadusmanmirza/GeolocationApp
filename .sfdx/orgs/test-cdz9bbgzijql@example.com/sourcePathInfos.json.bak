@@ -2,14 +2,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1518155885731,
             "changeTime": 1518155885731,
             "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": true
         }
@@ -17,14 +17,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1518155885731,
             "changeTime": 1518155885731,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -32,29 +32,27 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default",
         {
-            "state": "n",
+            "state": "u",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default",
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1518155885731,
-            "changeTime": 1518155885731,
-            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "modifiedTime": 1518156801272,
+            "changeTime": 1518156801272,
+            "contentHash": "5f82321c4c29ef78733abe08833b3d1b6430a068"
         }
     ],
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1518156049630,
             "changeTime": 1518156049630,
             "contentHash": "119e2f088cb7dfc60f905876a018eae1232e81fb",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -62,14 +60,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1518156049657,
             "changeTime": 1518156049657,
             "contentHash": "c602aa769dd62f17561299462770da4485dc3d8e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -77,14 +75,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.auradoc",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1518156049656,
             "changeTime": 1518156049656,
             "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -92,14 +90,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 37,
             "modifiedTime": 1518156049632,
             "changeTime": 1518156049632,
             "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -107,14 +105,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp-meta.xml",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 240,
             "modifiedTime": 1518156049636,
             "changeTime": 1518156049636,
             "contentHash": "a5567bec6e5a941ea95ff7cd29e7f626184cdc4e",
+            "isMetadataFile": true,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -122,14 +120,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.css",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1518156049652,
             "changeTime": 1518156049652,
             "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -137,14 +135,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.design",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1518156049658,
             "changeTime": 1518156049658,
             "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -152,14 +150,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.svg",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoComp.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1518156049655,
             "changeTime": 1518156049655,
             "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -167,14 +165,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompController.js",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 65,
             "modifiedTime": 1518156049638,
             "changeTime": 1518156049638,
             "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -182,14 +180,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompHelper.js",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1518156049650,
             "changeTime": 1518156049650,
             "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -197,14 +195,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompRenderer.js",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\aura\\DemoComp\\DemoCompRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1518156049653,
             "changeTime": 1518156049653,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": false,
             "isArtifactRoot": false
         }
@@ -212,16 +210,146 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1",
         {
-            "state": "n",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1518156096206,
             "changeTime": 1518156096206,
             "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
             "isWorkspace": true,
             "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\flexipages\\Demo_App.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\flexipages\\Demo_App.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 594,
+            "modifiedTime": 1518156801261,
+            "changeTime": 1518156801261,
+            "contentHash": "7d8823cc2cd92769d5dab4708bd000e272f019e6"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\tabs\\Demo_App1.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\tabs\\Demo_App1.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 311,
+            "modifiedTime": 1518156801265,
+            "changeTime": 1518156801265,
+            "contentHash": "3449067940691a1ec4c1e1ed0ef8a4b29b4c5cdc"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\tabs\\Demo_App.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\tabs\\Demo_App.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 311,
+            "modifiedTime": 1518156801269,
+            "changeTime": 1518156801269,
+            "contentHash": "3449067940691a1ec4c1e1ed0ef8a4b29b4c5cdc"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4558,
+            "modifiedTime": 1518156801274,
+            "changeTime": 1518156801274,
+            "contentHash": "21d4a4fbf985ed32ce91fb9ea432b9591c269e0d"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4896,
+            "modifiedTime": 1518156801282,
+            "changeTime": 1518156801282,
+            "contentHash": "2f8e93b2cbb1f9fd03e9b3b53962852d98504bdd"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4558,
+            "modifiedTime": 1518156801287,
+            "changeTime": 1518156801287,
+            "contentHash": "21d4a4fbf985ed32ce91fb9ea432b9591c269e0d"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17614,
+            "modifiedTime": 1518156801303,
+            "changeTime": 1518156801303,
+            "contentHash": "629860e6e90d3f1830608f839d0130625e8cf8f6"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518156801259,
+            "changeTime": 1518156801259,
+            "contentHash": "a8786fc3a3cc7996408cfd7e4630e7e94cff8d4c"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518156801267,
+            "changeTime": 1518156801267,
+            "contentHash": "c3d1c4940d8505bb7c3e21717689846ac27b66d8"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1518156801299,
+            "changeTime": 1518156801299,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
         }
     ]
 ]
