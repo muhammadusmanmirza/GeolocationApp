@@ -32,14 +32,14 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1518159373614,
             "changeTime": 1518159373614,
-            "contentHash": "3d68de974fcd62ebead11b0d8db246222796d37d"
+            "contentHash": "3d68de974fcd62ebead11b0d8db246222796d37d",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -210,15 +210,15 @@
     [
         "C:\\Users\\Muhammad Usman\\dev1",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1518156858769,
             "changeTime": 1518156858769,
-            "isWorkspace": true,
-            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df"
+            "contentHash": "ac8ebe8fbf8686ccd99613333554bc80e3ff17df",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
         }
     ],
     [
@@ -359,35 +359,61 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1518159373778,
-            "changeTime": 1518159384853,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "modifiedTime": 1518159724005,
+            "changeTime": 1518159724005,
+            "contentHash": "49ba01c325c51d3466135c1fa7e5a9f20d67af05"
         }
     ],
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 88,
             "modifiedTime": 1518159373777,
             "changeTime": 1518159384885,
-            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374"
+            "contentHash": "6ee7b968c3fdc18a21fccb9c245e392c62dfd374",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1518159373781,
             "changeTime": 1518159373781,
-            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f"
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\classes\\CustomController.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\classes\\CustomController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 86,
+            "modifiedTime": 1518159724001,
+            "changeTime": 1518159724001,
+            "contentHash": "7c1776ca332322fa87f03bf0cd63b0b0998d5839"
+        }
+    ],
+    [
+        "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\classes\\CustomController.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\Muhammad Usman\\dev1\\force-app\\main\\default\\classes\\CustomController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 194,
+            "modifiedTime": 1518159724016,
+            "changeTime": 1518159724016,
+            "contentHash": "cafff34d1704cf44706654a631ae852b671bf0a6"
         }
     ]
 ]
